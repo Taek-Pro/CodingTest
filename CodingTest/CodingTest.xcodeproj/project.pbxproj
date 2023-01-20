@@ -25,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		51396D88297A8E9F00F1E5D3 /* ReadMe.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
 		515CE24E297A88A5009D4D95 /* CodingTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodingTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		515CE251297A88A5009D4D95 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		515CE259297A88CA009D4D95 /* 주차 요금 계산.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "주차 요금 계산.swift"; sourceTree = "<group>"; };
@@ -42,11 +43,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		515CE245297A88A5009D4D95 = {
+		51396D87297A8E7900F1E5D3 /* 22022_kakao_blind */ = {
 			isa = PBXGroup;
 			children = (
 				515CE258297A88B2009D4D95 /* Solutions */,
 				515CE250297A88A5009D4D95 /* CodingTest */,
+				51396D88297A8E9F00F1E5D3 /* ReadMe.md */,
+			);
+			path = 22022_kakao_blind;
+			sourceTree = "<group>";
+		};
+		515CE245297A88A5009D4D95 = {
+			isa = PBXGroup;
+			children = (
+				51396D87297A8E7900F1E5D3 /* 22022_kakao_blind */,
 				515CE24F297A88A5009D4D95 /* Products */,
 			);
 			sourceTree = "<group>";

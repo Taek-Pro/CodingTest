@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+func 양궁대회(_ n:Int, _ info:[Int]) -> [Int] {
+    
+    return []
+}
